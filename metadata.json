@@ -1,0 +1,6 @@
+{
+  "name": "IlmZiyo - O'quv Kurslari Platformasi",
+  "description": "Zamonaviy o'quv kurslari, professional ustozlar va interaktiv onlayn ta'lim platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
